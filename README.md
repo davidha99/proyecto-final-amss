@@ -12,6 +12,9 @@ de la clase de Análisis y Modelación de Sistemas de Software (AMSS).
 ## URL
 https://a01177091.wixsite.com/promoterest
 
+## Video
+https://www.youtube.com/watch?v=UhLVxtNWvIg
+
 ## Equipo 5:
 - David Hernández
 - Mauricio Juárez
